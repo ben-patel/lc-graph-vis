@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/lc-graph-vis/static/js/main.d191bf65.js",
+    "index.html": "/lc-graph-vis/index.html",
+    "main.d191bf65.js.map": "/lc-graph-vis/static/js/main.d191bf65.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d191bf65.js"
+  ]
+}
